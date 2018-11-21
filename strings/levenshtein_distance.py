@@ -3,12 +3,12 @@ This is a Python implementation of the levenshtein distance.
 Levenshtein distance is a string metric for measuring the
 difference between two sequences.
 
-For doctests run following command:
+For doctests run the following command:
 python -m doctest -v levenshtein-distance.py
 or
 python3 -m doctest -v levenshtein-distance.py
 
-For manual testing run:
+For manual testing run the following command:
 python levenshtein-distance.py
 """
 
